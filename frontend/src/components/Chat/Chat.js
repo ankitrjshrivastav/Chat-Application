@@ -10,7 +10,7 @@ import Input from '../Input/Input';
 
 import './Chat.css';
 
-const ENDPOINT = 'https://chat-application-server-wi0w.onrender.com';
+const ENDPOINT = 'https://chat-application-server-gw5l.onrender.com';
 
 let socket;
 
